@@ -1,6 +1,6 @@
 title: Hamzah — Engineering Portfolio
 description: Embedded systems, drone telemetry, MAVLink2, hardware repair, and engineering leadership.
-theme: jekyll-theme-modernist
+theme: jekyll-theme-minimal
 
 # Optional navigation (supported by many themes)
 nav:
