@@ -71,3 +71,18 @@ body {
   line-height: 1.5;
 }
 
+/* Hover animation */
+.project-card {
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.project-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 6px 14px rgba(0,0,0,0.15);
+}
+
+/* Optional: highlight the title link on hover */
+.project-card:hover h3 a {
+  color: #2a5bd7;
+}
+
