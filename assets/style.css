@@ -78,3 +78,19 @@ body {
   line-height: 1.5;
 }
 
+/* Tag container */
+.tags {
+  margin-top: 12px;
+}
+
+/* Individual tag */
+.tag {
+  display: inline-block;
+  background: #e8eef7;
+  color: #2a4f8a;
+  padding: 4px 10px;
+  margin: 4px 6px 0 0;
+  font-size: 13px;
+  border-radius: 6px;
+  font-weight: 600;
+}
